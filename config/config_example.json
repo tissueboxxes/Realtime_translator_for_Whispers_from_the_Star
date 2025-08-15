@@ -1,0 +1,23 @@
+{
+  "model_settings": {
+    "whisper_model_size": "small",
+    "force_cpu": false,
+    "sample_rate": 16000,
+    "interval": 5,
+    "overlap": 1,
+    "min_audio_length": 1.0
+  },
+  "translation_settings": {
+    "default_mode": "en_to_zh",
+    "quality_modes": {
+      "fast": "small",
+      "balanced": "base",
+      "accurate": "medium"
+    }
+  },
+  "ui_settings": {
+    "window_size": "800x600",
+    "theme": "default",
+    "language": "zh_CN"
+  }
+}
