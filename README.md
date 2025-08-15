@@ -20,7 +20,7 @@ A real-time audio translation tool based on Whisper and multiple translation eng
 - Python 3.8+
 - Windows 10/11 (主要测试平台)
 - 4GB+ RAM
-- 可选：NVIDIA GPU (CUDA支持)
+- 可选：NVIDIA GPU (CUDA支持,支持50系列显卡)
 
 ### 安装依赖 / Installation
 
@@ -150,3 +150,4 @@ MIT License
 ## 📞 联系 / Contact
 
 如有问题或建议，请提交Issue或联系开发者。
+
